@@ -35,8 +35,5 @@ We welcome contributions from the community! If you find any bugs or have sugges
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Acknowledgements
-Special thanks to [list any contributors or resources here].
-
 ## Support
-For any inquiries or assistance, please contact [email address or contact information].
+For any inquiries or assistance, please contact.
